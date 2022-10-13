@@ -1,5 +1,7 @@
 # demo-spring-react-example-v2: dsre-v2
 
+Link to repo: <https://github.com/ucsb-cs156-f22/jpa03-DylanC1222/>
+
 Storybook is here:
 * Production: <https://github.com/ucsb-cs156-f22/jpa03-DylanC1222-docs/>
 * QA:  <https://github.com/ucsb-cs156-f22/jpa03-DylanC1222-docs-qa/>
