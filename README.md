@@ -3,8 +3,8 @@
 Link to repo: <https://github.com/ucsb-cs156-f22/jpa03-DylanC1222/>
 
 Storybook is here:
-* Production: <https://github.com/ucsb-cs156-f22/jpa03-DylanC1222-docs/>
-* QA:  <https://github.com/ucsb-cs156-f22/jpa03-DylanC1222-docs-qa/>
+* Production: <https://ucsb-cs156-f22.github.io/jpa03-DylanC1222-docs/>
+* QA:  <https://ucsb-cs156-f22.github.io/jpa03-DylanC1222-docs-qa/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
